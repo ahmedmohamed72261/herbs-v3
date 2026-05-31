@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "outputDirectory": "out",
+  "buildCommand": "next build",
+  "installCommand": "npm install",
+  "trailingSlash": true,
+  "github": {
+    "silent": true
+  }
+}
