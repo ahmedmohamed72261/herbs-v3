@@ -16,7 +16,7 @@ export function StatsSection() {
 
   return (
     <section className="relative py-20 md:py-28 overflow-hidden">
-      <div className="absolute inset-0 bg-gradient-to-r from-primary via-primary-dark to-primary" />
+      <div className="absolute inset-0 bg-gradient-to-r from-primary/10 via-beige to-primary/5 dark:from-primary dark:via-primary-dark dark:to-primary" />
       <div className="absolute inset-0 bg-grid opacity-[0.05]" />
       <div className="absolute top-0 left-1/2 w-[600px] h-[600px] rounded-full bg-white/5 blur-3xl pointer-events-none" />
 

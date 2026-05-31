@@ -20,7 +20,7 @@ export function Footer() {
   ];
 
   return (
-    <footer className="relative bg-charcoal text-warm-white overflow-hidden">
+    <footer className="relative bg-beige text-charcoal overflow-hidden">
       <div className="absolute inset-0 bg-grid opacity-[0.03]" />
       <div className="relative container-main py-16">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
@@ -67,7 +67,7 @@ export function Footer() {
                 <li key={link.href}>
                   <Link
                     href={link.href}
-                    className="text-sm text-sage-light/60 hover:text-warm-white transition-colors"
+                    className="text-sm text-sage-light/60 hover:text-charcoal transition-colors"
                   >
                     {lang === "ar" ? link.labelAr : link.label}
                   </Link>
@@ -85,7 +85,7 @@ export function Footer() {
                 <li key={link.href}>
                   <Link
                     href={link.href}
-                    className="text-sm text-sage-light/60 hover:text-warm-white transition-colors"
+                    className="text-sm text-sage-light/60 hover:text-charcoal transition-colors"
                   >
                     {lang === "ar" ? link.nameAr : link.name}
                   </Link>
@@ -103,7 +103,7 @@ export function Footer() {
                 <Mail className="h-4 w-4 text-sage-light mt-0.5 shrink-0" />
                 <a
                   href={`mailto:${siteConfig.contact.email}`}
-                  className="text-sm text-sage-light/60 hover:text-warm-white transition-colors"
+                  className="text-sm text-sage-light/60 hover:text-charcoal transition-colors"
                 >
                   {siteConfig.contact.email}
                 </a>
@@ -112,7 +112,7 @@ export function Footer() {
                 <Phone className="h-4 w-4 text-sage-light mt-0.5 shrink-0" />
                 <a
                   href={`tel:${siteConfig.contact.phone}`}
-                  className="text-sm text-sage-light/60 hover:text-warm-white transition-colors"
+                  className="text-sm text-sage-light/60 hover:text-charcoal transition-colors"
                 >
                   {siteConfig.contact.phone}
                 </a>
@@ -128,16 +128,16 @@ export function Footer() {
         </div>
       </div>
 
-      <div className="relative border-t border-white/5">
+      <div className="relative border-t border-white/10">
         <div className="container-main py-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-sm text-sage-light/40">
             &copy; {currentYear} {siteConfig.name}. {t("footer.rights")}
           </p>
           <div className="flex gap-6">
-            <a href="#" className="text-sm text-sage-light/40 hover:text-warm-white transition-colors">
+            <a href="#" className="text-sm text-sage-light/40 hover:text-charcoal transition-colors">
               {t("footer.privacy")}
             </a>
-            <a href="#" className="text-sm text-sage-light/40 hover:text-warm-white transition-colors">
+            <a href="#" className="text-sm text-sage-light/40 hover:text-charcoal transition-colors">
               {t("footer.terms")}
             </a>
           </div>

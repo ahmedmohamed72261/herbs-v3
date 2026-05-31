@@ -79,7 +79,7 @@ export function ContactForm() {
             className="w-full px-4 py-3.5 rounded-2xl glass text-charcoal placeholder:text-charcoal-light/40 focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all"
             placeholder={lang === "ar" ? "جون دو" : "John Doe"}
           />
-          {errors.name && <p className="text-red-500 text-xs mt-1">{errors.name.message}</p>}
+          {errors.name && <p className="text-red-500 dark:text-red-400 text-xs mt-1">{errors.name.message}</p>}
         </div>
         <div>
           <label htmlFor="email" className="block text-sm font-medium text-charcoal mb-2">
@@ -92,7 +92,7 @@ export function ContactForm() {
             className="w-full px-4 py-3.5 rounded-2xl glass text-charcoal placeholder:text-charcoal-light/40 focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all"
             placeholder="john@company.com"
           />
-          {errors.email && <p className="text-red-500 text-xs mt-1">{errors.email.message}</p>}
+          {errors.email && <p className="text-red-500 dark:text-red-400 text-xs mt-1">{errors.email.message}</p>}
         </div>
       </div>
 
@@ -107,7 +107,7 @@ export function ContactForm() {
             className="w-full px-4 py-3.5 rounded-2xl glass text-charcoal placeholder:text-charcoal-light/40 focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all"
             placeholder={lang === "ar" ? "شركتك المحدودة" : "Your Company Ltd."}
           />
-          {errors.company && <p className="text-red-500 text-xs mt-1">{errors.company.message}</p>}
+          {errors.company && <p className="text-red-500 dark:text-red-400 text-xs mt-1">{errors.company.message}</p>}
         </div>
         <div>
           <label htmlFor="phone" className="block text-sm font-medium text-charcoal mb-2">
@@ -120,7 +120,7 @@ export function ContactForm() {
             className="w-full px-4 py-3.5 rounded-2xl glass text-charcoal placeholder:text-charcoal-light/40 focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all"
             placeholder="+1 555 123 4567"
           />
-          {errors.phone && <p className="text-red-500 text-xs mt-1">{errors.phone.message}</p>}
+          {errors.phone && <p className="text-red-500 dark:text-red-400 text-xs mt-1">{errors.phone.message}</p>}
         </div>
       </div>
 
@@ -134,7 +134,7 @@ export function ContactForm() {
           className="w-full px-4 py-3.5 rounded-2xl glass text-charcoal placeholder:text-charcoal-light/40 focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all"
           placeholder={lang === "ar" ? "استفسار عن منتج" : "Product Inquiry"}
         />
-        {errors.subject && <p className="text-red-500 text-xs mt-1">{errors.subject.message}</p>}
+        {errors.subject && <p className="text-red-500 dark:text-red-400 text-xs mt-1">{errors.subject.message}</p>}
       </div>
 
       <div>
@@ -148,7 +148,7 @@ export function ContactForm() {
           className="w-full px-4 py-3.5 rounded-2xl glass text-charcoal placeholder:text-charcoal-light/40 focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all resize-y"
           placeholder={lang === "ar" ? "أخبرنا عن متطلباتك..." : "Tell us about your requirements..."}
         />
-        {errors.message && <p className="text-red-500 text-xs mt-1">{errors.message.message}</p>}
+        {errors.message && <p className="text-red-500 dark:text-red-400 text-xs mt-1">{errors.message.message}</p>}
       </div>
 
       <Button type="submit" size="lg" loading={isSubmitting}>
