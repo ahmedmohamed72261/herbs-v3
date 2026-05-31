@@ -40,7 +40,7 @@ export function TeamPageClient() {
           >
             {members.map((member) => (
               <GlassCard key={member.id} className="group">
-                <div className="aspect-square rounded-2xl bg-gradient-to-br from-primary/5 via-beige to-sage/10 dark:from-primary/10 dark:via-charcoal dark:to-sage/5 flex items-center justify-center mb-5 overflow-hidden">
+                <div className="aspect-square rounded-2xl bg-gradient-to-br from-primary/5 via-beige to-sage/10 flex items-center justify-center mb-5 overflow-hidden">
                   <img
                     src={member.image}
                     alt={member.name}

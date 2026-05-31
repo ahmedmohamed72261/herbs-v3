@@ -127,7 +127,7 @@ export function ProductsPageClient() {
             {filtered.map((product) => (
               <GlassCard key={product.id} className="p-0 overflow-hidden group">
                 <Link href={`/products/${product.slug}`}>
-                  <div className="aspect-[4/3] bg-gradient-to-br from-primary/5 via-beige to-sage/10 dark:from-primary/10 dark:via-charcoal dark:to-sage/5 flex items-center justify-center relative overflow-hidden">
+                  <div className="aspect-[4/3] bg-gradient-to-br from-primary/5 via-beige to-sage/10 flex items-center justify-center relative overflow-hidden">
                     <img
                       src={product.image}
                       alt={product.name}
@@ -142,7 +142,7 @@ export function ProductsPageClient() {
                     >
                       {product.status}
                     </span>
-                    <span className="absolute top-4 left-4 px-3 py-1 rounded-lg text-xs font-medium bg-white/80 dark:bg-charcoal/80 backdrop-blur-sm text-charcoal-light">
+                    <span className="absolute top-4 left-4 px-3 py-1 rounded-lg text-xs font-medium bg-white/80 dark:bg-warm-white/80 backdrop-blur-sm text-charcoal-light">
                       {product.origin}
                     </span>
                   </div>

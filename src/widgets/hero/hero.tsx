@@ -16,7 +16,7 @@ export function Hero() {
 
   return (
     <section className="relative min-h-screen flex items-center overflow-hidden">
-      <div className="absolute inset-0 bg-gradient-to-br from-beige via-warm-white to-beige/50 dark:from-charcoal dark:via-warm-white/5 dark:to-charcoal" />
+      <div className="absolute inset-0 bg-gradient-to-br from-beige via-warm-white to-beige/50" />
       <div className="absolute inset-0 bg-grid opacity-[0.03]" />
 
       <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] rounded-full bg-gradient-to-br from-primary/5 to-sage/5 blur-3xl pointer-events-none" />
