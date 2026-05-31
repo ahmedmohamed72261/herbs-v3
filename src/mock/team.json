@@ -1,0 +1,90 @@
+[
+  {
+    "id": "tm-1",
+    "name": "Dr. Elena Vasquez",
+    "nameAr": "د. إيلينا فاسكيز",
+    "role": "Chief Executive Officer",
+    "roleAr": "الرئيس التنفيذي",
+    "bio": "With over 25 years in the botanical ingredients industry, Dr. Vasquez leads our global strategy and vision. She holds a PhD in Pharmacognosy from the University of Bonn, specializing in medicinal plant research and natural product chemistry. Previously served as VP of Global Sourcing at a top-tier botanical supplier, managing supply chains across 50+ countries.",
+    "bioAr": "مع أكثر من 25 عامًا في صناعة المكونات النباتية، تقود د. فاسكيز استراتيجيتنا ورؤيتنا العالمية. حاصلة على دكتوراه في العقاقير من جامعة بون، متخصصة في أبحاث النباتات الطبية وكيمياء المنتجات الطبيعية. شغلت سابقًا منصب نائب رئيس التوريد العالمي في إحدى الشركات الرائدة في مجال المكونات النباتية، حيث أدارت سلاسل التوريد عبر أكثر من 50 دولة.",
+    "image": "/team/team-1.jpg",
+    "email": "e.vasquez@premiumbotanical.com"
+  },
+  {
+    "id": "tm-2",
+    "name": "James Okonkwo",
+    "nameAr": "جيمس أوكونكو",
+    "role": "Chief Operations Officer",
+    "roleAr": "مدير العمليات",
+    "bio": "James brings 20 years of supply chain expertise, specializing in African and Middle Eastern botanical sourcing. He oversees our global logistics network with operations in 30+ countries, ensuring timely delivery and quality control across all origin points. His deep relationships with farming cooperatives have secured exclusive access to premium raw materials.",
+    "bioAr": "يجلب جيمس 20 عامًا من الخبرة في سلسلة التوريد، متخصصًا في التوريد النباتي الأفريقي والشرق أوسطي. يشرف على شبكتنا اللوجستية العالمية بعمليات في أكثر من 30 دولة، مما يضمن التسليم في الوقت المناسب ومراقبة الجودة عبر جميع نقاط المنشأ. علاقاته العميقة مع التعاونيات الزراعية ضمنت وصولاً حصريًا للمواد الخام الممتازة.",
+    "image": "/team/team-2.jpg",
+    "email": "j.okonkwo@premiumbotanical.com"
+  },
+  {
+    "id": "tm-3",
+    "name": "Dr. Sophia Chen",
+    "nameAr": "د. صوفيا تشين",
+    "role": "Chief Scientific Officer",
+    "roleAr": "المدير العلمي",
+    "bio": "Sophia leads our R&D and quality assurance programs. With a PhD in Phytochemistry from Peking University and 15 years in botanical research, she ensures all products meet rigorous scientific standards. She has published 30+ peer-reviewed papers on botanical standardization methods and leads our novel extraction technology development.",
+    "bioAr": "تقود صوفيا برامج البحث والتطوير وضمان الجودة لدينا. مع دكتوراه في الكيمياء النباتية من جامعة بكين و 15 عامًا في الأبحاث النباتية، تضمن أن جميع المنتجات تلبي المعايير العلمية الصارمة. نشرت أكثر من 30 ورقة بحثية محكمة حول طرق التقييس النباتي وتقود تطوير تكنولوجيا الاستخلاص الجديدة لدينا.",
+    "image": "/team/team-3.jpg",
+    "email": "s.chen@premiumbotanical.com"
+  },
+  {
+    "id": "tm-4",
+    "name": "Mohammed Al-Rashid",
+    "nameAr": "محمد الراشد",
+    "role": "Director of Global Sourcing",
+    "roleAr": "مدير التوريد العالمي",
+    "bio": "Mohammed has 18 years of experience sourcing premium botanicals across the Middle East, North Africa, and South Asia. His deep cultural knowledge and relationships with farming cooperatives ensure access to the highest quality raw materials. He established our ethical sourcing program and Fair Trade partnerships.",
+    "bioAr": "يملك محمد 18 عامًا من الخبرة في توريد النباتات الممتازة عبر الشرق الأوسط وشمال أفريقيا وجنوب آسيا. معرفته الثقافية العميقة وعلاقاته مع التعاونيات الزراعية تضمن الوصول إلى أعلى جودة من المواد الخام. أسس برنامج التوريد الأخلاقي وشراكات التجارة العادلة.",
+    "image": "/team/team-4.jpg",
+    "email": "m.alrashid@premiumbotanical.com"
+  },
+  {
+    "id": "tm-5",
+    "name": "Isabella Rossi",
+    "nameAr": "إيزابيلا روسي",
+    "role": "Commercial Director",
+    "roleAr": "المدير التجاري",
+    "bio": "Isabella manages global sales and client relationships across 40+ markets. With a Master's in International Trade from Bocconi University and 12 years in the botanical industry, she has successfully expanded our presence into key markets across Europe, Asia, and the Americas.",
+    "bioAr": "تدير إيزابيلا المبيعات العالمية وعلاقات العملاء عبر أكثر من 40 سوقًا. مع ماجستير في التجارة الدولية من جامعة بوكوني و 12 عامًا في صناعة النباتات، وسعت بنجاح وجودنا في الأسواق الرئيسية عبر أوروبا وآسيا والأمريكتين.",
+    "image": "/team/team-1.jpg",
+    "email": "i.rossi@premiumbotanical.com"
+  },
+  {
+    "id": "tm-6",
+    "name": "Dr. Kenji Tanaka",
+    "nameAr": "د. كينجي تاناكا",
+    "role": "Head of Quality & Regulatory Compliance",
+    "roleAr": "رئيس الجودة والامتثال التنظيمي",
+    "bio": "Kenji ensures all products meet international regulatory standards across pharmaceutical, food, and cosmetic sectors. With a PhD in Food Science from the University of Tokyo and 14 years in quality management, he maintains our ISO 22000, GMP, Organic, Kosher, and Halal certifications.",
+    "bioAr": "يضمن كينجي أن جميع المنتجات تلبي المعايير التنظيمية الدولية عبر القطاعات الدوائية والغذائية والتجميلية. مع دكتوراه في علوم الأغذية من جامعة طوكيو و 14 عامًا في إدارة الجودة، يحافظ على شهاداتنا في ISO 22000 وممارسات التصنيع الجيد والعضوي والكوشر والحلال.",
+    "image": "/team/team-2.jpg",
+    "email": "k.tanaka@premiumbotanical.com"
+  },
+  {
+    "id": "tm-7",
+    "name": "Maria Silva",
+    "nameAr": "ماريا سيلفا",
+    "role": "Sustainability & ESG Director",
+    "roleAr": "مديرة الاستدامة والحوكمة البيئية والاجتماعية",
+    "bio": "Maria drives our environmental and social responsibility strategy. She has 10 years of experience in sustainable supply chains and leads our carbon-neutral certification, Fair Trade programs, and regenerative agriculture initiatives across Latin America and Africa.",
+    "bioAr": "تقود ماريا استراتيجية المسؤولية البيئية والاجتماعية لدينا. لديها 10 سنوات من الخبرة في سلاسل التوريد المستدامة وتقود شهادة الحياد الكربوني وبرامج التجارة العادلة ومبادرات الزراعة المتجددة عبر أمريكا اللاتينية وأفريقيا.",
+    "image": "/team/team-3.jpg",
+    "email": "m.silva@premiumbotanical.com"
+  },
+  {
+    "id": "tm-8",
+    "name": "Ahmed Hassan",
+    "nameAr": "أحمد حسن",
+    "role": "Regional Director - MENA Operations",
+    "roleAr": "المدير الإقليمي - عمليات الشرق الأوسط وشمال أفريقيا",
+    "bio": "Ahmed oversees operations across the Middle East and North Africa region. With deep knowledge of regional botanical resources, trade regulations, and cultural business practices, he has been instrumental in establishing our Cairo processing facility and Dubai logistics hub.",
+    "bioAr": "يشرف أحمد على العمليات في منطقة الشرق الأوسط وشمال أفريقيا. مع معرفة عميقة بالموارد النباتية الإقليمية واللوائح التجارية والممارسات التجارية الثقافية، كان له دور فعال في إنشاء منشأة المعالجة في القاهرة ومركز الخدمات اللوجستية في دبي.",
+    "image": "/team/team-4.jpg",
+    "email": "a.hassan@premiumbotanical.com"
+  }
+]

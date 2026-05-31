@@ -1,0 +1,68 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Medicinal Herbs & Botanicals",
+    "nameAr": "الأعشاب الطبية والنباتات",
+    "slug": "medicinal-herbs-botanicals",
+    "description": "Premium grade medicinal herbs and botanicals sourced from certified organic farms worldwide. Each batch tested for purity, potency, and active compound concentrations. GMP and ISO 22000 certified processing facilities.",
+    "descriptionAr": "أعشاب طبية ونباتات طبية بدرجة ممتازة من مزارع عضوية معتمدة حول العالم. كل دفعة تخضع لاختبارات النقاء والفعالية وتركيزات المركبات النشطة. مرافق تجهيز معتمدة وفق ممارسات التصنيع الجيد وأيزو 22000.",
+    "image": "/categories/Herbs.png",
+    "productCount": 18,
+    "icon": "leaf"
+  },
+  {
+    "id": "cat-2",
+    "name": "Botanical Extracts & Phytochemicals",
+    "nameAr": "المستخلصات النباتية والمواد الكيميائية النباتية",
+    "slug": "botanical-extracts-phytochemicals",
+    "description": "Concentrated botanical extracts standardized for bioactive compounds. Water, ethanol, and CO2 extraction methods. Ideal for pharmaceutical, nutraceutical, and cosmeceutical formulations requiring precise active ingredient concentrations.",
+    "descriptionAr": "مستخلصات نباتية مركزة موحدة للمركبات النشطة بيولوجياً. طرق استخلاص بالماء والإيثانول وثاني أكسيد الكربون. مثالية للتركيبات الدوائية والغذائية والتجميلية التي تتطلب تركيزات دقيقة من المكونات النشطة.",
+    "image": "/categories/Seeds.png",
+    "productCount": 14,
+    "icon": "flask"
+  },
+  {
+    "id": "cat-3",
+    "name": "Essential Oils & Aromatics",
+    "nameAr": "الزيوت العطرية والعطريات",
+    "slug": "essential-oils-aromatics",
+    "description": "Pure therapeutic-grade essential oils distilled from premium plant materials. Complete GC/MS batch analysis with enantiomer profiling. Certified organic, kosher, and halal options available.",
+    "descriptionAr": "زيوت عطرية علاجية نقية مقطرة من مواد نباتية ممتازة. تحليل كامل GC/MS مع تحديد المتصاوغات. خيارات معتمدة عضوية وكوشر وحلال متاحة.",
+    "image": "/categories/all.jpeg",
+    "productCount": 12,
+    "icon": "droplet"
+  },
+  {
+    "id": "cat-4",
+    "name": "Spices, Culinary Herbs & Aromatics",
+    "nameAr": "التوابل والأعشاب الطهوية والعطريات",
+    "slug": "spices-culinary-herbs-aromatics",
+    "description": "Whole, ground, and crushed spices sourced directly from origin farms. Full traceability from seed to shipment. HACCP certified processing with microbial reduction treatments.",
+    "descriptionAr": "توابل كاملة ومطحونة ومكسرة من المزارع الأصلية مباشرة. تتبع كامل من البذرة إلى الشحنة. معالجة معتمدة بنظام تحليل المخاطر ونقاط التحكم الحرجة مع معالجات تقليل الميكروبات.",
+    "image": "/categories/Spices.png",
+    "productCount": 12,
+    "icon": "chef-hat"
+  },
+  {
+    "id": "cat-5",
+    "name": "Raw & Dried Botanicals",
+    "nameAr": "النباتات الخام والمجففة",
+    "slug": "raw-dried-botanicals",
+    "description": "Dried and processed raw botanical materials for manufacturing and formulation. Whole herb, cut & sifted, and powdered forms available. Solar and mechanical drying options.",
+    "descriptionAr": "مواد نباتية خام مجففة ومعالجة للتصنيع والتركيب. متوفرة بأشكال عشب كامل ومقطع ومنخل ومسحوق. خيارات تجفيف شمسي وميكانيكي.",
+    "image": "/categories/Seeds.png",
+    "productCount": 16,
+    "icon": "trees"
+  },
+  {
+    "id": "cat-6",
+    "name": "Specialty & Rare Ingredients",
+    "nameAr": "المكونات المتخصصة والنادرة",
+    "slug": "specialty-rare-ingredients",
+    "description": "Rare and high-value botanical ingredients for premium cosmetic, wellness, and luxury applications. Sustainable wild-crafting and fair trade partnerships with indigenous communities.",
+    "descriptionAr": "مكونات نباتية نادرة وعالية القيمة للتطبيقات التجميلية والصحية والفاخرة. جمع بري مستدام وشراكات تجارة عادلة مع المجتمعات الأصلية.",
+    "image": "/categories/Herbs.png",
+    "productCount": 8,
+    "icon": "gem"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "cert-1",
+    "name": "Organic EU Certification",
+    "nameAr": "شهادة الاتحاد الأوروبي العضوية",
+    "issuingBody": "European Commission - Agricultural and Rural Development",
+    "issuingBodyAr": "المفوضية الأوروبية - التنمية الزراعية والريفية",
+    "description": "Our facilities and supply chains are certified organic under EU Regulation 2018/848. This certification guarantees that our botanical products are produced without synthetic pesticides, fertilizers, or GMOs, and follow strict organic farming practices from seed to harvest.",
+    "descriptionAr": "مرافقنا وسلاسل التوريد لدينا معتمدة كعضوية بموجب لائحة الاتحاد الأوروبي 2018/848. تضمن هذه الشهادة أن منتجاتنا النباتية تُنتج بدون مبيدات حشرية صناعية أو أسمدة أو كائنات معدلة وراثيًا، وتتبع ممارسات الزراعة العضوية الصارمة من البذرة إلى الحصاد.",
+    "image": "/certificates/cert1.png",
+    "badge": "leaf"
+  },
+  {
+    "id": "cert-2",
+    "name": "USDA Organic Certification",
+    "nameAr": "شهادة وزارة الزراعة الأمريكية العضوية",
+    "issuingBody": "United States Department of Agriculture",
+    "issuingBodyAr": "وزارة الزراعة الأمريكية",
+    "description": "We maintain USDA Organic certification across our primary processing facilities. This ensures compliance with the National Organic Program standards, providing our North American partners with certified organic botanical ingredients.",
+    "descriptionAr": "نحافظ على شهادة وزارة الزراعة الأمريكية العضوية في مرافق المعالجة الرئيسية لدينا. يضمن ذلك الامتثال لمعايير البرنامج العضوي الوطني، مما يوفر لشركائنا في أمريكا الشمالية مكونات نباتية عضوية معتمدة.",
+    "image": "/certificates/cert2.png",
+    "badge": "leaf"
+  },
+  {
+    "id": "cert-3",
+    "name": "ISO 22000:2018 Food Safety Management",
+    "nameAr": "إدارة سلامة الغذاء ISO 22000:2018",
+    "issuingBody": "International Organization for Standardization",
+    "issuingBodyAr": "المنظمة الدولية للمعايير",
+    "description": "Our quality management system is ISO 22000:2018 certified, demonstrating our commitment to food safety throughout the supply chain. This certification covers all stages from raw material reception to final product dispatch.",
+    "descriptionAr": "نظام إدارة الجودة لدينا معتمد وفق ISO 22000:2018، مما يظهر التزامنا بسلامة الغذاء في جميع أنحاء سلسلة التوريد. تغطي هذه الشهادة جميع المراحل من استلام المواد الخام إلى شحن المنتج النهائي.",
+    "image": "/certificates/cert3.jpeg",
+    "badge": "shield"
+  },
+  {
+    "id": "cert-4",
+    "name": "GMP Certification (WHO Standards)",
+    "nameAr": "شهادة ممارسات التصنيع الجيد (معايير منظمة الصحة العالمية)",
+    "issuingBody": "World Health Organization",
+    "issuingBodyAr": "منظمة الصحة العالمية",
+    "description": "Our manufacturing facilities comply with current Good Manufacturing Practices (GMP) as recommended by WHO. This ensures consistent quality and safety of our botanical products through controlled production processes and rigorous quality control.",
+    "descriptionAr": "مرافق التصنيع لدينا تمتثل لممارسات التصنيع الجيد الحالية كما أوصت بها منظمة الصحة العالمية. يضمن هذا الجودة والسلامة المتسقة لمنتجاتنا النباتية من خلال عمليات الإنتاج الخاضعة للرقابة ومراقبة الجودة الصارمة.",
+    "image": "/certificates/cert4.jpeg",
+    "badge": "check"
+  },
+  {
+    "id": "cert-5",
+    "name": "Fair Trade Certified",
+    "nameAr": "شهادة التجارة العادلة",
+    "issuingBody": "Fair Trade International (FLO)",
+    "issuingBodyAr": "منظمة التجارة العادلة الدولية",
+    "description": "We are proud to be Fair Trade certified, ensuring that farmers and workers in our supply chains receive fair wages and work under safe conditions. This certification supports sustainable livelihoods and community development in origin regions.",
+    "descriptionAr": "نحن فخورون بكوننا معتمدين بالتجارة العادلة، مما يضمن أن المزارعين والعمال في سلاسل التوريد لدينا يحصلون على أجور عادلة ويعملون في ظروف آمنة. تدعم هذه الشهادة سبل العيش المستدامة وتنمية المجتمع في مناطق المنشأ.",
+    "image": "/certificates/cert5.png",
+    "badge": "star"
+  },
+  {
+    "id": "cert-6",
+    "name": "Kosher Certification (OU)",
+    "nameAr": "شهادة الكوشر (الاتحاد الأرثوذكسي)",
+    "issuingBody": "Orthodox Union (OU)",
+    "issuingBodyAr": "الاتحاد الأرثوذكسي",
+    "description": "Selected products in our portfolio carry Orthodox Union Kosher certification, meeting the dietary requirements of Jewish law. This certification is widely recognized and respected in both kosher-compliant and quality-conscious markets worldwide.",
+    "descriptionAr": "المنتجات المختارة في محفظتنا تحمل شهادة الكوشر من الاتحاد الأرثوذكسي، مما يلبي المتطلبات الغذائية للشريعة اليهودية. هذه الشهادة معترف بها ومحترمة على نطاق واسع في الأسواق المتوافقة مع الكوشر والواعية بالجودة في جميع أنحاء العالم.",
+    "image": "/certificates/cert6.png",
+    "badge": "star"
+  },
+  {
+    "id": "cert-7",
+    "name": "Halal Certification (IFANCA)",
+    "nameAr": "شهادة الحلال (إيفانكا)",
+    "issuingBody": "Islamic Food and Nutrition Council of America (IFANCA)",
+    "issuingBodyAr": "المجلس الإسلامي للأغذية والتغذية في أمريكا",
+    "description": "Our Halal certification confirms that our products meet Islamic dietary requirements. This certification covers processing, handling, and storage procedures, ensuring compliance with Halal standards from raw material to finished product.",
+    "descriptionAr": "شهادة الحلال لدينا تؤكد أن منتجاتنا تلبي المتطلبات الغذائية الإسلامية. تغطي هذه الشهادة إجراءات المعالجة والمناولة والتخزين، مما يضمن الامتثال لمعايير الحلال من المواد الخام إلى المنتج النهائي.",
+    "image": "/certificates/cert5.png",
+    "badge": "star"
+  },
+  {
+    "id": "cert-8",
+    "name": "ISO 9001:2015 Quality Management",
+    "nameAr": "إدارة الجودة ISO 9001:2015",
+    "issuingBody": "International Organization for Standardization",
+    "issuingBodyAr": "المنظمة الدولية للمعايير",
+    "description": "Our quality management system is ISO 9001:2015 certified, demonstrating our commitment to continuous improvement, customer satisfaction, and operational excellence across all business processes.",
+    "descriptionAr": "نظام إدارة الجودة لدينا معتمد وفق ISO 9001:2015، مما يظهر التزامنا بالتحسين المستمر ورضا العملاء والتميز التشغيلي في جميع العمليات التجارية.",
+    "image": "/certificates/cert3.jpeg",
+    "badge": "shield"
+  },
+  {
+    "id": "cert-9",
+    "name": "ECOCERT Cosmos Organic",
+    "nameAr": "إيكوسيرت كوزموس عضوي",
+    "issuingBody": "ECOCERT Greenlife",
+    "issuingBodyAr": "إيكوسيرت جرينلايف",
+    "description": "ECOCERT Cosmos Organic certification for our cosmetic-grade botanical ingredients. This internationally recognized standard ensures our products meet strict criteria for natural and organic cosmetic ingredient sourcing, processing, and labeling.",
+    "descriptionAr": "شهادة إيكوسيرت كوزموس العضوية لمكوناتنا النباتية من الدرجة التجميلية. يضمن هذا المعيار المعترف به دوليًا أن منتجاتنا تلبي معايير صارمة لتوريد ومعالجة ووضع العلامات على مكونات التجميل الطبيعية والعضوية.",
+    "image": "/certificates/cert2.png",
+    "badge": "leaf"
+  }
+]
